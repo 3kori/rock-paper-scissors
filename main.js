@@ -59,7 +59,7 @@ function playGame(){
         console.log(`Dang it! We are equal.`);
     }
     else if (humanScore > computerScore) {
-        console.log(`Yes finally we won!`);
+        console.log(`Yes, finally we won!`);
     }
     else {
         console.log(`Noooo! We lost.`);
